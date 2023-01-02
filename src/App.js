@@ -1,9 +1,8 @@
-import './App.css';
-import FormReactYup from './componenet/FormReactYup';
+import Header from './componenet/Header';
 function App() {
   return (
     <div className="App">
-      <FormReactYup/>
+      <Header/>
     </div>
   );
 }
